@@ -14,3 +14,5 @@
   <!-- Dynamic Commit Stats -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tweakkin&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
 
+  ![Space Shooter Demo](https://github.com/czl9707/gh-space-shooter/raw/main/example.gif)
+
